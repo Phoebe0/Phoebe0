@@ -1,6 +1,6 @@
 # 💛💜💛💜HELLO💜💛💜
 > 人生不是轨道，应是旷野🌻
-<div  style="width:400px; height:300px; box-shadow: 10px 5px 5px black;">
+<div style="width:400px; height:300px; border: 1px solid #333; box-shadow: 10px 5px 5px black;">
     👋 Hi, 这里是 @Tricia
     <br />
     🌱 CSDN BLog  <a href="https://blog.csdn.net/qq_41675812">破瓦</a> 
