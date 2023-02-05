@@ -5,6 +5,8 @@
     <br />
     🌱 CSDN BLog  <a href="https://blog.csdn.net/qq_41675812">破瓦</a> 
     <br />
+    🌱 稀土掘金 <a href="https://juejin.cn/user/743705089424382">_Tricia_</a>
+    <br />
     🌱 Gitee <a href="https://gitee.com/chy99">Tricia</a>
     <br />
     💞️ 欢迎光临我的小世界~
