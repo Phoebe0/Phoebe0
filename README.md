@@ -3,7 +3,7 @@
 <div style="color: red;">
     👋 Hi, 这里是 @Tricia
     <br />
-    🌱 CSDN BLog  <a href="https://blog.csdn.net/qq_41675812">破瓦</a> 
+    🌱 CSDN BLog  <a href="https://blog.csdn.net/qq_41675812">Morning°</a> 
     <br />
     🌱 稀土掘金 <a href="https://juejin.cn/user/743705089424382">_Tricia_</a>
     <br />
