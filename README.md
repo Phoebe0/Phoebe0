@@ -5,7 +5,7 @@
     <br />
     🌱 CSDN BLog  <a href="https://blog.csdn.net/qq_41675812">Morning°</a> 
     <br />
-    🌱 稀土掘金 <a href="https://juejin.cn/user/743705089424382">_Tricia_</a>
+    🌱 稀土掘金 <a href="https://juejin.cn/user/743705089424382">_Morning_</a>
     <br />
     🌱 Gitee <a href="https://gitee.com/chy99">Tricia</a>
     <br />
