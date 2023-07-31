@@ -3,9 +3,9 @@
 <div style="color: red;">
     👋 Hi, 这里是 @Tricia
     <br />
-    🌱 CSDN BLog  <a href="https://blog.csdn.net/qq_41675812">Morning°</a> 
+    🌱 CSDN BLog  <a href="https://blog.csdn.net/qq_41675812">且陶陶°</a> 
     <br />
-    🌱 稀土掘金 <a href="https://juejin.cn/user/743705089424382">_Morning_</a>
+    🌱 稀土掘金 <a href="https://juejin.cn/user/743705089424382">且陶陶_</a>
     <br />
     🌱 Gitee <a href="https://gitee.com/chy99">Tricia</a>
     <br />
