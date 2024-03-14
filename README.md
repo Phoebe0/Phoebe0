@@ -16,8 +16,8 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoebe0)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![React.js](https://img.shields.io/badge/-React.js-202020?style=flat-square&logo=React&logoColor=75c8ed)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-pgSQL-3a5e8a?style=flat-square&logo=postgresql&logoColor=75c8ed)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
