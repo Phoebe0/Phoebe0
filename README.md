@@ -13,7 +13,7 @@
 </div>
 <hr/>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoebe0&layout=compact&hide=css)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoebe0&layout=compact&hide=css&show_icons=true&theme=radical)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![React.js](https://img.shields.io/badge/-React.js-202020?style=flat-square&logo=React&logoColor=75c8ed)
