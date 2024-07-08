@@ -29,7 +29,7 @@
 Number of visits：<img  src='https://moe-counter.glitch.me/get/@:Phoebe0?theme=rule34'> 
 <br />
 
-![Top Langs](https://github-profile-trophy.vercel.app/?username=Phoebe0&theme=onedark&rank=A,B)
+![Top Langs](https://github-profile-trophy.vercel.app/?username=Phoebe0&rank=A,B)
 
 <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Phoebe0&layout=compact&hide=css&show_icons=true&theme=radical'>  
 <img align='left' src='https://streak-stats.demolab.com/?user=Phoebe0&theme=radical&hide_border=true'>
