@@ -18,6 +18,7 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+![Python](https://img.shields.io/badge/-Python-1B33A2?style=flat-square&logo=python)
 </div>
 <b>
     📫 Email me：moonc2021@outlook.com
