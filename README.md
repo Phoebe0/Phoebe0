@@ -1,4 +1,4 @@
-# <div align="center"> 💛💜💛💜Hi💜💛💜💛</div>
+# <div align="center"> 💛💜💛💜Hello💜💛💜💛</div>
 >  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7221CD&background=BEBEBE00&random=false&width=435&lines=Fortune+favors+the+bold.🌻)](https://git.io/typing-svg)
 <div align="left">
     👋 Hi, I'm <b>@Tricia</b> , 🫶🏼Welcome to my world~
