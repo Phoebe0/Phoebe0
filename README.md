@@ -3,7 +3,7 @@
 <div align="left">
     👋 Hi, I'm <b>@Tricia</b> , 🫶🏼Welcome to my world~
     <br />
-    🌱 CSDN BLOG  <a href="https://blog.csdn.net/qq_41675812">且陶陶°</a>
+    🌱 CSDN BLOG  <a href="https://blog.csdn.net/qq_41675812">.Tricia.</a>
     <br />
     🌱 Gitee <a href="https://gitee.com/chy99">Tricia</a>
     <br />
